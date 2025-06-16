@@ -1,4 +1,3 @@
-
 # Step 1: Create a pet/animal class with the following 3 properties
     # name, age, color
 # Step 2: Create two objects from that pet class with different data filled in

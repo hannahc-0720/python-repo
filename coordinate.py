@@ -1,4 +1,3 @@
-
 class Coordinate():
     # Create a class constructor
     def __init__(self, x, y):
